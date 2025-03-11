@@ -73,6 +73,7 @@ p, h1, h2, h3, h4, h5, h6, span, a, li, strong, em {
     margin-top: 100px;
     text-align: center;
     box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.8);
+
   }
   /* =========================Common End=============================== */
 
@@ -88,13 +89,26 @@ p, h1, h2, h3, h4, h5, h6, span, a, li, strong, em {
   .player1Item{
     display: none;
   }
+
   .player1Input{
-
+    background: yellow;
   }
-  .player1Btn{
 
-  }
   .player1Warning{
     display: none;
   }
   /* =========================Player 01 End=============================== */
+
+  /* player 2 */
+  .player2Item{
+    display: none;
+  }
+
+  .player2Input{
+    background: lightsalmon;
+  }
+
+  .player2Warning{
+    display: none;
+  }
+  /* player 2 end */
